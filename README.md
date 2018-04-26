@@ -6,7 +6,7 @@ Example Maven project generated using `maven-archetype-quickstart`
 
 [![Release](https://jitpack.io/v/jitpack/maven-simple.svg)](https://jitpack.io/#jitpack/maven-simple)
 
-To use it in your Maven build add:
+To use it in your Maven build bbbbbb   add:
 ```xml
   <repositories>
 	<repository>
@@ -16,7 +16,7 @@ To use it in your Maven build add:
   </repositories>
 ```
 
-and the dependency:
+and the dependency hhh:
 
 ```xml
 	<dependency>
